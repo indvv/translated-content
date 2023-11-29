@@ -7362,10 +7362,6 @@
     "modified": "2020-10-15T22:12:17.873Z",
     "contributors": ["Mitrr", "ShantyHoz"]
   },
-  "Web/API/Window/pageYOffset": {
-    "modified": "2020-10-15T22:28:25.886Z",
-    "contributors": ["anima-dev"]
-  },
   "Web/API/Window/parent": {
     "modified": "2019-03-23T22:52:14.067Z",
     "contributors": ["skip405", "olehrgf"]
@@ -9834,22 +9830,6 @@
       "Tihoem",
       "galinakulinich@mail.ru",
       "Sheppy"
-    ]
-  },
-  "Web/Guide/AJAX": {
-    "modified": "2020-03-06T17:23:15.361Z",
-    "contributors": [
-      "bulatDev",
-      "korjjik87",
-      "chrisdavidmills",
-      "Sky_Fox",
-      "Megapotz",
-      "Kavkazsk",
-      "Summit677",
-      "Kwinto",
-      "Dionys",
-      "Woodroof",
-      "Zhuravlik"
     ]
   },
   "Web/Guide/API": {
@@ -16033,12 +16013,12 @@
     "modified": "2020-10-15T22:28:03.728Z",
     "contributors": ["amuzalevskiy"]
   },
-  "WebAssembly/JavaScript_interface/compile": {
-    "modified": "2020-10-15T22:05:22.747Z",
+  "WebAssembly/JavaScript_interface/compileStreaming_static": {
+    "modified": "2020-10-15T22:05:24.687Z",
     "contributors": ["warsan"]
   },
-  "WebAssembly/JavaScript_interface/compileStreaming": {
-    "modified": "2020-10-15T22:05:24.687Z",
+  "WebAssembly/JavaScript_interface/compile_static": {
+    "modified": "2020-10-15T22:05:22.747Z",
     "contributors": ["warsan"]
   },
   "WebAssembly/Loading_and_running": {
@@ -16128,6 +16108,22 @@
   "conflicting/Learn/JavaScript/Asynchronous/Introducing": {
     "modified": "2020-12-02T05:41:10.583Z",
     "contributors": ["haltaction", "KrasnovaM", "snayp"]
+  },
+  "conflicting/Learn/JavaScript/Client-side_web_APIs/Fetching_data": {
+    "modified": "2020-03-06T17:23:15.361Z",
+    "contributors": [
+      "bulatDev",
+      "korjjik87",
+      "chrisdavidmills",
+      "Sky_Fox",
+      "Megapotz",
+      "Kavkazsk",
+      "Summit677",
+      "Kwinto",
+      "Dionys",
+      "Woodroof",
+      "Zhuravlik"
+    ]
   },
   "conflicting/Learn/JavaScript/Objects": {
     "modified": "2019-06-04T15:16:30.349Z",
@@ -16399,6 +16395,10 @@
   "conflicting/Web/API/Window/popstate_event": {
     "modified": "2020-10-15T21:34:09.985Z",
     "contributors": ["hisbvdis", "stary71", "alexismaster"]
+  },
+  "conflicting/Web/API/Window/scrollY": {
+    "modified": "2020-10-15T22:28:25.886Z",
+    "contributors": ["anima-dev"]
   },
   "conflicting/Web/API/WindowOrWorkerGlobalScope": {
     "modified": "2019-03-23T22:50:51.451Z",
